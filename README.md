@@ -1,6 +1,6 @@
 # Hi there, I'm Malaika Farooq 🤖👾
 
-![Profile views](https://gpvc.arturio.dev/malaika-farooq) ![GitHub followers](https://img.shields.io/github/followers/malaika-farooq?label=Follow&style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/malaika_farooq?style=social)
+![Profile views](https://gpvc.arturio.dev/malaika-farooq) ![GitHub followers](https://img.shields.io/github/followers/malaika-farooq?label=Follow&style=social) ![LinkedIn Follow](https://img.shields.io/linkedin/follow/malaika_farooq?style=social)
 ![Gaming and Robotics](https://media.giphy.com/media/HoffxyN8ghVuw/giphy.gif)
 
 ## About Me
