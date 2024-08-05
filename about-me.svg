@@ -1,5 +1,5 @@
 <svg width="550" height="290" viewBox="0 0 550 290" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <style>
+   <style>
     .bubble {
       fill: #e9e9eb;
     }
@@ -134,7 +134,51 @@
         opacity: 1;
         transform: translate(10px, 240px);
       }
-    } 
+    }
+
+    @keyframes msg-6 {
+      0% {
+        opacity: 0;
+        transform: translate(10px, 317px);
+      }
+      100% {
+        opacity: 1;
+        transform: translate(10px, 312px);
+      }
+    }
+
+    @keyframes msg-7 {
+      0% {
+        opacity: 0;
+        transform: translate(10px, 389px);
+      }
+      100% {
+        opacity: 1;
+        transform: translate(10px, 384px);
+      }
+    }
+
+    @keyframes msg-8 {
+      0% {
+        opacity: 0;
+        transform: translate(10px, 461px);
+      }
+      100% {
+        opacity: 1;
+        transform: translate(10px, 456px);
+      }
+    }
+
+    @keyframes msg-9 {
+      0% {
+        opacity: 0;
+        transform: translate(10px, 533px);
+      }
+      100% {
+        opacity: 1;
+        transform: translate(10px, 528px);
+      }
+    }
     
     @media (prefers-color-scheme: dark) {
       .bubble {
