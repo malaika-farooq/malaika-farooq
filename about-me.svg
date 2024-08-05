@@ -194,7 +194,7 @@
 
   <!-- Funny and Savage Bio -->
   <g id="msg-4" class="bubble msg" style="transform: translate(10px, 220px); animation: fade-in 0.2s 20s forwards;">
-    <rect width="300" height="42" rx="18.0355" />
+    <rect width="260" height="42" rx="18.0355" />
     <text x="15" y="27">I turn coffee ☕ into code 💻</text>
   </g>
 
@@ -287,6 +287,6 @@
   <g id="msg-9" class="bubble msg" style="transform: translate(10px, 520px); animation: fade-in 0.2s 44s forwards;">
     <rect width="300" height="66.1302" rx="18.0355" />
     <text x="15" y="27">Please reach out via <a xlink:href="https://www.linkedin.com/in/malaika-farooq//">LinkedIn</a>...</text>
-    <text x="15" y="50" style="transform: translate(10px, 520px); animation: fade-in 0.2s 14s forwards;">Or send a carrier pigeon! 🐦</text>
+    <text x="15" y="50">Or send a carrier pigeon! 🐦</text>
   </g>
 </svg>
