@@ -14,8 +14,6 @@
 🌱 I’m currently learning Machine Learning and AI.
 👯 I’m looking to collaborate on open-source projects related to AI and web development.
 💬 Ask me about AI, Machine Learning, Python, and Web Development.
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/malaika-farooq)
-😄 Pronouns: She/Her
 ⚡ Fun fact: Funny girl having love for AI tech.
 
  </div>
@@ -57,10 +55,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-malaika-farooq.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-malaika-farooq.vercel.app/api?username=malaika-farooq&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=malaika-farooq&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=malaika-farooq&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-malaika-farooq.vercel.app/api/top-langs/?username=malaika-farooq&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malaika-farooq&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
@@ -70,7 +68,7 @@
 <br/>
 
 <div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://linkedin.com/in/malaika-farooq' border='0' alt='Connect with me: LinkedIn' /></a>
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/malaika-farooq)
 </div>
 
 <br/>
