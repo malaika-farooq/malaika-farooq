@@ -64,5 +64,7 @@
 <br/><br/>
 
 <hr/>
-[![](https://github.com/malaika-farooq/malaika-farooq/blob/main/about-me.svg)](https://www.linkedin.com/in/malaika-farooq/) 
+<div align=center>
+<img src="about-me.svg" alt="🤍Get to know me🤍" width="600" height="400">
+</div>
 <br/>
