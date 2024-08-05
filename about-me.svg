@@ -239,7 +239,7 @@
 
   <!-- Another Experience Joke -->
   <g id="msg-7" class="bubble msg" style="transform: translate(10px, 360px); animation: fade-in 0.2s 32s forwards;">
-    <rect width="380" height="66.1302" rx="18.0355" />
+    <rect width="490" height="66.1302" rx="18.0355" />
     <text x="15" y="27">Writing code is like writing a book... 📚</text>
     <text x="15" y="50">...except if you miss a single comma, the whole plot fails.</text>
   </g>
@@ -262,7 +262,7 @@
 
   <!-- Intelligent Insight with Humor -->
   <g id="msg-8" class="bubble msg" style="transform: translate(10px, 440px); animation: fade-in 0.2s 38s forwards;">
-    <rect width="380" height="66.1302" rx="18.0355" />
+    <rect width="400" height="66.1302" rx="18.0355" />
     <text x="15" y="27">AI is great at playing chess... ♟️</text>
     <text x="15" y="50">...but still can't understand my variable names.</text>
   </g>
@@ -285,8 +285,8 @@
 
   <!-- Sign-Off with Humor -->
   <g id="msg-9" class="bubble msg" style="transform: translate(10px, 520px); animation: fade-in 0.2s 44s forwards;">
-    <rect width="300" height="42.1302" rx="18.0355" />
+    <rect width="300" height="66.1302" rx="18.0355" />
     <text x="15" y="27">Please reach out via <a xlink:href="https://www.linkedin.com/in/malaika-farooq//">LinkedIn</a>...</text>
-    <text x="15" y="50">Or send a carrier pigeon! 🐦</text>
+    <text x="15" y="50" style="transform: translate(10px, 520px); animation: fade-in 0.2s 14s forwards;">Or send a carrier pigeon! 🐦</text>
   </g>
 </svg>
