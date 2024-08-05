@@ -64,5 +64,5 @@
 <br/><br/>
 
 <hr/>
-
+[![](https://github.com/malaika-farooq/malaika-farooq/blob/main/about-me.svg)](https://www.linkedin.com/in/malaika-farooq/) 
 <br/>
