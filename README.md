@@ -17,7 +17,11 @@
 ⚡ Fun fact: Funny girl having love for AI tech.
 
  </div>
- 
+ <br/>
+ <div align=center>
+<img src="about-me.svg" alt="🤍Get to know me🤍" width="600" height="400">
+</div>
+<br/>
 <div align="center"> 
   <a href="mailto:malaika.farooq.main.acc@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -60,11 +64,4 @@
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malaika-farooq&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
-
 <br/><br/>
-
-<hr/>
-<div align=center>
-<img src="about-me.svg" alt="🤍Get to know me🤍" width="600" height="400">
-</div>
-<br/>
