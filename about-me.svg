@@ -1,5 +1,5 @@
-<svg width="550" height="600" viewBox="0 0 550 600" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-   <style>
+<svg width="550" height="650" viewBox="0 0 550 650" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <style>
     .bubble {
       fill: #e9e9eb;
     }
@@ -19,7 +19,7 @@
 
     .typing {
       opacity: 0;
-      animation: fade-in-out 1.5s infinite;
+      animation: fade-in-out 2s infinite;
     }
 
     .msg {
@@ -46,7 +46,7 @@
       }
     }
   </style>
-  
+
   <defs>
     <style>
       /* cyrillic-ext */
@@ -108,7 +108,7 @@
     </style>
   </defs>
 
-  <!-- typing 1 -->
+   <!-- typing 1 -->
   <g id="typing-1" class="typing" style="transform: translate(10px, 0);">
     <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
     <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
@@ -125,13 +125,13 @@
   </g>
 
   <!-- Hi, I'm Malaika -->
-  <g id="msg-1" class="bubble msg" style="transform: translate(10px, 0); animation: fade-in 0.2s 1.7s forwards;">
-    <rect width="230" height="42" rx="18.0355" />
-    <text x="15" y="27">Hola! My name is Malaika! 😊</text>
+  <g id="msg-1" class="bubble msg" style="transform: translate(10px, 0); animation: fade-in 0.2s 2s forwards;">
+    <rect width="260" height="42" rx="18.0355" />
+    <text x="15" y="27">Hola! My name is Malaika! 👸🏻</text>
   </g>
 
   <!-- typing 2 -->
-  <g id="typing-2" class="typing" style="transform: translate(10px, 60px); animation: fade-in-out 1.5s 2.5s infinite;">
+  <g id="typing-2" class="typing" style="transform: translate(10px, 60px); animation: fade-in-out 2s 4s infinite;">
     <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
     <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
     <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
@@ -147,14 +147,14 @@
   </g>
 
   <!-- Software Engineer Introduction -->
-  <g id="msg-2" class="bubble msg" style="transform: translate(10px, 60px); animation: fade-in 0.2s 4.2s forwards;">
+  <g id="msg-2" class="bubble msg" style="transform: translate(10px, 60px); animation: fade-in 0.2s 8s forwards;">
     <rect width="350" height="66.1302" rx="18.0355" />
     <text x="15" y="27">Software Engineer, exploring AI 🤖</text>
     <text x="15" y="50">Uh... Wanna know more?</text>
   </g>
 
   <!-- typing 3 -->
-  <g id="typing-3" class="typing" style="transform: translate(10px, 140px); animation: fade-in-out 1.5s 5s infinite;">
+  <g id="typing-3" class="typing" style="transform: translate(10px, 140px); animation: fade-in-out 2s 10s infinite;">
     <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
     <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
     <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
@@ -170,14 +170,14 @@
   </g>
 
   <!-- Work Experience with Humor -->
-  <g id="msg-3" class="bubble msg" style="transform: translate(10px, 140px); animation: fade-in 0.2s 6.7s forwards;">
+  <g id="msg-3" class="bubble msg" style="transform: translate(10px, 140px); animation: fade-in 0.2s 14s forwards;">
     <rect width="380" height="66.1302" rx="18.0355" />
     <text x="15" y="27">I once fixed a bug by deleting my code... 🐛</text>
     <text x="15" y="50">Turns out, it was the problem!</text>
   </g>
 
   <!-- typing 4 -->
-  <g id="typing-4" class="typing" style="transform: translate(10px, 220px); animation: fade-in-out 1.5s 7.5s infinite;">
+  <g id="typing-4" class="typing" style="transform: translate(10px, 220px); animation: fade-in-out 2s 16s infinite;">
     <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
     <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
     <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
@@ -192,14 +192,14 @@
     </circle>
   </g>
 
-  <!-- Twitter Bio with Humor -->
-  <g id="msg-4" class="bubble msg" style="transform: translate(10px, 220px); animation: fade-in 0.2s 9.2s forwards;">
-    <rect width="200" height="42" rx="18.0355" />
-    <text x="15" y="27">Code Ninja 🥷 Debug Warrior ⚔️</text>
+  <!-- Funny and Savage Bio -->
+  <g id="msg-4" class="bubble msg" style="transform: translate(10px, 220px); animation: fade-in 0.2s 20s forwards;">
+    <rect width="300" height="42" rx="18.0355" />
+    <text x="15" y="27">I turn coffee ☕ into code 💻</text>
   </g>
 
   <!-- typing 5 -->
-  <g id="typing-5" class="typing" style="transform: translate(10px, 280px); animation: fade-in-out 1.5s 10s infinite;">
+  <g id="typing-5" class="typing" style="transform: translate(10px, 280px); animation: fade-in-out 2s 22s infinite;">
     <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
     <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
     <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
@@ -215,14 +215,14 @@
   </g>
 
   <!-- Additional Work Experience Humor -->
-  <g id="msg-6" class="bubble msg" style="transform: translate(10px, 280px); animation: fade-in 0.2s 11.7s forwards;">
+  <g id="msg-6" class="bubble msg" style="transform: translate(10px, 280px); animation: fade-in 0.2s 26s forwards;">
     <rect width="380" height="66.1302" rx="18.0355" />
     <text x="15" y="27">Debugging: The art of removing bugs... 🐞</text>
     <text x="15" y="50">...and adding a few more.</text>
   </g>
 
   <!-- typing 6 -->
-  <g id="typing-6" class="typing" style="transform: translate(10px, 360px); animation: fade-in-out 1.5s 12s infinite;">
+  <g id="typing-6" class="typing" style="transform: translate(10px, 360px); animation: fade-in-out 2s 28s infinite;">
     <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
     <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
     <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
@@ -238,14 +238,14 @@
   </g>
 
   <!-- Another Experience Joke -->
-  <g id="msg-7" class="bubble msg" style="transform: translate(10px, 360px); animation: fade-in 0.2s 13.7s forwards;">
+  <g id="msg-7" class="bubble msg" style="transform: translate(10px, 360px); animation: fade-in 0.2s 32s forwards;">
     <rect width="380" height="66.1302" rx="18.0355" />
     <text x="15" y="27">Writing code is like writing a book... 📚</text>
     <text x="15" y="50">...except if you miss a single comma, the whole plot fails.</text>
   </g>
 
   <!-- typing 7 -->
-  <g id="typing-7" class="typing" style="transform: translate(10px, 440px); animation: fade-in-out 1.5s 14s infinite;">
+  <g id="typing-7" class="typing" style="transform: translate(10px, 440px); animation: fade-in-out 2s 34s infinite;">
     <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
     <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
     <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
@@ -261,14 +261,14 @@
   </g>
 
   <!-- Intelligent Insight with Humor -->
-  <g id="msg-8" class="bubble msg" style="transform: translate(10px, 440px); animation: fade-in 0.2s 15.7s forwards;">
+  <g id="msg-8" class="bubble msg" style="transform: translate(10px, 440px); animation: fade-in 0.2s 38s forwards;">
     <rect width="380" height="66.1302" rx="18.0355" />
     <text x="15" y="27">AI is great at playing chess... ♟️</text>
     <text x="15" y="50">...but still can't understand my variable names.</text>
   </g>
 
   <!-- typing 8 -->
-  <g id="typing-8" class="typing" style="transform: translate(10px, 520px); animation: fade-in-out 1.5s 16s infinite;">
+  <g id="typing-8" class="typing" style="transform: translate(10px, 520px); animation: fade-in-out 2s 40s infinite;">
     <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
     <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
     <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
@@ -284,7 +284,7 @@
   </g>
 
   <!-- Sign-Off with Humor -->
-  <g id="msg-9" class="bubble msg" style="transform: translate(10px, 520px); animation: fade-in 0.2s 17.7s forwards;">
+  <g id="msg-9" class="bubble msg" style="transform: translate(10px, 520px); animation: fade-in 0.2s 44s forwards;">
     <rect width="300" height="42.1302" rx="18.0355" />
     <text x="15" y="27">Please reach out via <a xlink:href="https://www.linkedin.com/in/malaika-farooq//">LinkedIn</a>...</text>
     <text x="15" y="50">Or send a carrier pigeon! 🐦</text>
