@@ -14,7 +14,7 @@
 🌱 I’m currently learning Machine Learning and AI.
 👯 I’m looking to collaborate on open-source projects related to AI and web development.
 💬 Ask me about AI, Machine Learning, Python, and Web Development.
-⚡ Fun fact: Funny girl having love for AI tech.
+⚡ Fun fact: Coding ain't funny but I am! hehe.
 
  </div>
  <br/>
