@@ -11,8 +11,6 @@
 <div align="center">
  
 🔭 I’m a PhD Student with current research on Multi-Robot Coordination for Assistive Healthcare in Home Environments for Disabled People.
-
-//<img width="1051" height="62" alt="image" src="https://github.com/user-attachments/assets/bb74d6f2-83e9-46e3-befa-8a5b3fea5de7" />
 .
 🌱 I’m currently learning ROS, Machine Learning and AI.
 👯 I’m looking to collaborate on open-source projects related to Robotics, Robot Human Interaction, AI Engineering.
