@@ -4,13 +4,14 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=800000&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Malaika+Farooq!;" />
 </h1>
 
-<h3 align="center">A passionate Software Engineer from Pakistan</h3>
+<h3 align="center">A passionate PhD Candidate at UT Arlington</h3>
 
 <br/>
 
 <div align="center">
  
 🔭 I’m a PhD Student with current research on Multi-Robot Coordination for Assistive Healthcare in Home Environments for Disabled People.
+
 <img width="1051" height="62" alt="image" src="https://github.com/user-attachments/assets/bb74d6f2-83e9-46e3-befa-8a5b3fea5de7" />
 .
 🌱 I’m currently learning ROS, Machine Learning and AI.
