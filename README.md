@@ -10,11 +10,13 @@
 
 <div align="center">
  
-🔭 I’m currently working on [GyneaGenius](https://github.com/malaika-farooq/GyneaGenius), an AI-driven health support application.
-🌱 I’m currently learning Machine Learning and AI.
-👯 I’m looking to collaborate on open-source projects related to AI and web development.
-💬 Ask me about AI, Machine Learning, Python, and Web Development.
-⚡ Fun fact: Coding ain't funny but I am! hehe.
+🔭 I’m a PhD Student with current research on Multi-Robot Coordination for Assistive Healthcare in Home Environments for Disabled People.
+<img width="1051" height="62" alt="image" src="https://github.com/user-attachments/assets/bb74d6f2-83e9-46e3-befa-8a5b3fea5de7" />
+.
+🌱 I’m currently learning ROS, Machine Learning and AI.
+👯 I’m looking to collaborate on open-source projects related to Robotics, Robot Human Interaction, AI Engineering.
+💬 Ask me about Robotics AI, Machine Learning, Parallel Processing, Distributed Systems, and Software Engineering.
+⚡ Let's collaborate and work together on interesting projects with impact!
 
  </div>
  <br/>
